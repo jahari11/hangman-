@@ -1,0 +1,16 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "engine": {
+    "node": "16.3.0"
+  },
+  "main": "index.js",
+  "author": "Jahari Crawford",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jahari11/hangman.git"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
